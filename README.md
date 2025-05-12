@@ -11,12 +11,8 @@ Hello there, I'm Mehul, a technology enthusiast
 with a strong foundation in information technology and a current focus on cybersecurity. I hold a bachelor's degree in Information Technology and am currently pursuing post-secondary education, specializing in cybersecurity, from Durham College. My passion lies in exploring and leveraging the latest advancements in technology to solve real-world problems.
 
 ## Interests
-My interests in technology are diverse and encompass various domains, including data analysis, machine learning, and deep learning. I thrive on staying updated with the latest trends and advancements in these fields and am always eager to learn and apply new technologies to create innovative solutions.
 
 ## Experience
-
-
-## Hackathon Experience
 
 
 ## Languages and Tools 
