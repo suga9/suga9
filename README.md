@@ -14,14 +14,9 @@ with a strong foundation in information technology and a current focus on cybers
 My interests in technology are diverse and encompass various domains, including data analysis, machine learning, and deep learning. I thrive on staying updated with the latest trends and advancements in these fields and am always eager to learn and apply new technologies to create innovative solutions.
 
 ## Experience
-I bring hands-on experience gained through various training labs, projects, and certifications, which I consider equivalent to 2-3 years of practical experience. My expertise lies in data analysis, where I excel in extracting insights from complex datasets, as well as in machine learning and deep learning, where I have developed and deployed predictive models to solve business challenges.
+
 
 ## Hackathon Experience
-Throughout my career, I have actively participated in hackathons, embracing the opportunity to collaborate with diverse teams and tackle challenging problems. One notable experience was participating in a hackathon powered by Intel, where we were tasked with training and modelling machine learning algorithms. We leveraged Intel's powerful toolkit to optimize model training by utilizing external computational power. Although our team did not secure a top position, the experience was invaluable, providing me with deep insights and enhancing my skills in machine learning and model optimization.
-
-#### ONE API
-![image](https://github.com/suga9/suga9/assets/72648506/9ef44235-b4bf-4a59-9bf9-f834cefc46e8)
-
 
 
 ## Languages and Tools 
